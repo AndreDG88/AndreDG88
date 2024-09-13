@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu sou o André Soares ! </h1>
-<h3 align="center"> Desenvolvedor Full Stack Python em formação </h3>
+<h3 align="center"> Desenvolvedor Full Stack Python em formação... </h3>
 
 <h2 align="center"> Bem vindo ao meu perfil GitHub 👋 </h2>
 
