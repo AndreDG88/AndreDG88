@@ -1,5 +1,7 @@
 <h1 align="center"> Olá, eu sou o André Soares ! </h1>
-<h3 align="center"> Bem vindo ao meu perfil GitHub 👋 </h3>
+<h3 align="center"> Desenvolvedor Full Stack Python em formação </h3>
+
+<h2 align="center"> Bem vindo ao meu perfil GitHub 👋 </h2>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;">
 
@@ -11,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;">
 
-<h2 class="heading-element" dir="auto">Tecnologias que amo e estou aprendendo:</h2>
+<h2 class="heading-element" dir="auto">Tecnologias que estou aprendendo:</h2>
 
 <div align="center" dir="auto"><br>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="70" height="70"/>
@@ -35,18 +37,3 @@
 </div>
 
 <img width="200px" align="left" src="https://camo.githubusercontent.com/450e8b1379b6b690390f5d8f64fca11481c7ba7c66702c4d1125ce20e5550125/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e617473616c657465267374796c653d666c61742d73717561726526636f6c6f723d323243434232" data-canonical-src="https://komarev.com/ghpvc/?username=AndreDG88&amp;style=flat-square&amp;color=22CCB2" style="max-width: 100%;">
-
-<!--
-**AndreDG88/AndreDG88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
