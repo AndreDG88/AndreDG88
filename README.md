@@ -9,8 +9,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreDG88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img height="200" align="center" src="https://camo.githubusercontent.com/788397e790f0ab8dbee75981abda5f1e05af1092f6489b13b7ff8d0ef0e8c2e6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e617473616c6574652673686f775f69636f6e733d74727565267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api?username=AndreDG88&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
-
 <h2 class="heading-element" dir="auto">Tecnologias que estou aprendendo:</h2>
 
 <div align="center" dir="auto"><br>
