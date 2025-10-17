@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, sou o André Soares ! </h1>
-<h3 align="center"> Desenvolvedor Full Stack Python em formação... </h3>
+<h3 align="center"> Desenvolvedor Full Stack Python </h3>
 
 <p>Desenvolvedor Full Stack Python formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduado em Design Gráfico 2D/3D pela Universidade Veiga de Almeida. Profissional com mais de 15 anos de experiência na área de criação, perfil organizado e focado. Facilidade em trabalhar em equipe, já coordenou equipes de criação e ajudou e orientou outros designers em início de carreira.</p>
 
